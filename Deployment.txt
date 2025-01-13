@@ -1,0 +1,10 @@
+//deplpoyment
+
+We need Azure portal (portal.azure.com) Account
+Create necessary Resource group and Deploy
+We can deployment this code via Azure App Service
+We need to configure the YML, Docker and deployment files, and make the realease of our app part of Our CI/CD pipeline.
+
+#I don't have end to end Experience in deploying an application from scratch to azure services
+but do have experice manageing deployment configs/monitoring/argoCD and other fucntionalities in a automated enviornment since, The deployment is usally automated with help of Ops team.
+We can discuss further on this in required.
